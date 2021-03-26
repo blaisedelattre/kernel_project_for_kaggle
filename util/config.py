@@ -1,0 +1,10 @@
+Ks = [0, 1, 2]
+LETTERS = ['A','C','G','T']
+ALPHABET = 'ACGT'
+DATA_FILE = "machine-learning-with-kernel-methods-2021"
+TRAINING_SEQUENCE = "Xtr"
+TRAINING_LABEL = "Ytr"
+TEST_SEQUENCE = "Xte"
+EXTENSION_NAME = ".csv"
+SAVE_DATA_FILE = "saves"
+LAST_KERNEL_FILE = "last_kernel.pkl"
